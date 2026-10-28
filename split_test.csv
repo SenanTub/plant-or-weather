@@ -1,0 +1,10 @@
+features,split,macro_F1,sd
+all features,shuffled 1-h windows (as in paper),0.714,0.014
+all features,whole days held out,0.702,0.018
+all features,whole plant held out,0.653,0.018
+level only,shuffled 1-h windows (as in paper),0.583,0.014
+level only,whole days held out,0.536,0.013
+level only,whole plant held out,0.492,0.017
+variability only,shuffled 1-h windows (as in paper),0.666,0.014
+variability only,whole days held out,0.66,0.015
+variability only,whole plant held out,0.643,0.019

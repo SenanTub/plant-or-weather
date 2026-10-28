@@ -1,0 +1,17 @@
+channel,feature,plant,hours,r_with_other_plants,R2
+CH1,logstd,P1,1099,0.61,0.37
+CH1,logstd,P2,1148,0.67,0.44
+CH1,logstd,P3,1148,0.6,0.36
+CH1,logstd,P5,1004,0.7,0.49
+CH1,level,P1,1099,-0.03,0.0
+CH1,level,P2,1148,0.15,0.02
+CH1,level,P3,1148,0.14,0.02
+CH1,level,P5,1004,-0.09,0.01
+CH2,logstd,P1,1099,0.61,0.38
+CH2,logstd,P2,1148,0.67,0.44
+CH2,logstd,P3,1148,0.66,0.44
+CH2,logstd,P5,1004,0.73,0.53
+CH2,level,P1,1099,-0.18,0.03
+CH2,level,P2,1148,-0.05,0.0
+CH2,level,P3,1148,-0.13,0.02
+CH2,level,P5,1004,-0.09,0.01
